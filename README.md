@@ -12,4 +12,4 @@ user friendly python interface for nmcli.
 `./install`
 
 ### Uninstall:
-`sudo rm -rf ~/.local/bin/wificon*`
+`sudo rm -rf ~/.local/bin/wifico*`
