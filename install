@@ -1,5 +1,5 @@
 sudo apt update && sudo apt upgrade -y
 sudo apt install network-manager python3
 sudo chmod +x *
-sudo cp wificon /bin/wificon
-sudo cp wificon.py /bin/wificon.py
+sudo cp wificon ~/.local/bin/wificon
+sudo cp wificon.py ~/.local/bin/wificon.py
